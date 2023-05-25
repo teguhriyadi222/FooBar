@@ -1,0 +1,15 @@
+C:\Users\ASUS\Music\belajar c#\project1\bin\Debug\net7.0\project1.exe
+C:\Users\ASUS\Music\belajar c#\project1\bin\Debug\net7.0\project1.deps.json
+C:\Users\ASUS\Music\belajar c#\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\ASUS\Music\belajar c#\project1\bin\Debug\net7.0\project1.dll
+C:\Users\ASUS\Music\belajar c#\project1\bin\Debug\net7.0\project1.pdb
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.dll
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\refint\project1.dll
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.pdb
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\ASUS\Music\belajar c#\project1\obj\Debug\net7.0\ref\project1.dll
