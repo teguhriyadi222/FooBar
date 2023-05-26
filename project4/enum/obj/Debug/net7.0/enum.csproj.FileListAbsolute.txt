@@ -1,0 +1,15 @@
+C:\Users\ASUS\Music\belajar c#\project4\enum\bin\Debug\net7.0\enum.exe
+C:\Users\ASUS\Music\belajar c#\project4\enum\bin\Debug\net7.0\enum.deps.json
+C:\Users\ASUS\Music\belajar c#\project4\enum\bin\Debug\net7.0\enum.runtimeconfig.json
+C:\Users\ASUS\Music\belajar c#\project4\enum\bin\Debug\net7.0\enum.dll
+C:\Users\ASUS\Music\belajar c#\project4\enum\bin\Debug\net7.0\enum.pdb
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.AssemblyInfoInputs.cache
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.AssemblyInfo.cs
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.dll
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\refint\enum.dll
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.pdb
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\enum.genruntimeconfig.cache
+C:\Users\ASUS\Music\belajar c#\project4\enum\obj\Debug\net7.0\ref\enum.dll
